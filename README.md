@@ -39,6 +39,10 @@ node server.js
 npm start
 ```
 
+## DB Schema
+![db sqlite3 image](https://github.com/chorus-ai/CADA/assets/2847495/e119dbc0-11a8-4707-a529-80f5c8210d2d)
+
+
 ## Features
 
 - Feature 1
