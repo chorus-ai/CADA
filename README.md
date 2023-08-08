@@ -130,42 +130,42 @@ npm start
 <details>
     <summary>16.1 Set up software development and local deployment environment at Emory</summary>
 
- - [ ] 16.1.1 Set up the team management environment
- - [ ] 16.1.2 Set up the development environent
- - [ ] 16.1.3 Set up the production environment on Emory AWS Cloud
- - [ ] 16.1.4 Set up the DNS and Firewall Rule Exception with Emory IT
+ - [x] 16.1.1 Set up the team management environment
+ - [x] 16.1.2 Set up the development environent
+ - [x] 16.1.3 Set up the production environment on Emory AWS Cloud
+ - [x] 16.1.4 Set up the DNS and Firewall Rule Exception with Emory IT
  - [ ] 16.1.1 Configure cloud environment
- - [ ] 16.1.2 Launch Alppha testing
- - [ ] 16.1.3 API documentation and publishing and expand user authentication routes by adding central SSO and password management
+ - [ ] 16.1.2 Launch Alpha testing
+ - [x] 16.1.3 API documentation and publishing and expand user authentication routes by adding central SSO and password management
 </details>
 
 
  <details>
     <summary>16.2 Design and develop CADA database architecture</summary>
 
- - [ ] 16.2.1 Design and develop object relational model for user, patient events data, configuration data, user generated annotation data, and user permission for features
- - [ ] 16.2.2 Design a flat files filesystem structure to anage raw waveforms and images
- - [ ] 16.2.1 Text annotation/adjudication
- - [ ] 16.2.2 NLP tokens from OHNLP or MetaMap/concept detecion validation annotation/adjudication
- - [ ] 16.2.3 Contines waveform annotation/adjudication
+ - [x] 16.2.1 Design and develop object relational model for user, patient events data, configuration data, user generated annotation data, and user permission for features
+ - [x] 16.2.2 Design a flat files filesystem structure to anage raw waveforms and images
+ - [x] 16.2.1 Text annotation/adjudication
+ - [x] 16.2.2 NLP tokens from OHNLP or MetaMap/concept detecion validation annotation/adjudication
+ - [x] 16.2.3 Contines waveform annotation/adjudication
 </details>
 
  <details>
     <summary>16.3 Design and develop user authentication and management module</summary>
 
- - [ ] 16.3.1 Setup OAuth 2.0 to secure REST APIs
- - [ ] 16.3.2 Setup SSO
+ - [x] 16.3.1 Setup OAuth 2.0 to secure REST APIs
+ - [x] 16.3.2 Setup SSO
  - [ ] 16.3.3 Setup SAML
  - [ ] 16.3.4 Setup one-time codes delivered by email or SMS o handle broken password
- - [ ] 16.3.1 Stand up mesage broker srver to procss the model annotation request
- - [ ] 16.3.2 Develop back-end controller to handle receive/respond request
+ - [x] 16.3.1 Stand up mesage broker server to process the model annotation request
+ - [x] 16.3.2 Develop back-end controller to handle receive/respond request
 </details>
 
  <details>
     <summary>16.4 Design and develop project definition file format and contents</summary>
 
- - [ ] 16.4.1 Initial design is completed for review and discussion by CHoRUS members
- - [ ] 16.4.2 A design is finalized for a concrete first CA and DA project, respectively
+ - [x] 16.4.1 Initial design is completed for review and discussion by CHoRUS members
+ - [x] 16.4.2 A design is finalized for a concrete first CA and DA project, respectively
  - [ ] 16.4.1 User managment (add, remove, find, search, update, assignRole, removeRole, updateRole, searchRole)
  - [ ] 16.4.2 Project managment (add, remove, find, search, update, assignProjectRle, removeProjetRole, updateProjectRole)
  - [ ] 16.4.3 Assignment managment (assign, removeAssignment, updateAssignment, addAssignmentValues)
@@ -176,47 +176,47 @@ npm start
 <details>
     <summary>16.5 Design and develop CADA container</summary>
 
- - [ ] 16.5.1 Design and develp wireframe
- - [ ] 16.5.2 Select and finalize wireframe
- - [ ] 16.5.3 Design data instantiation engine
- - [ ] 16.5.4 Develop and test data instantiaion engine
- - [ ] 16.5.5 Design GUI instantiation engine
- - [ ] 16.5.6 Test GUI instantiation engine
+ - [x] 16.5.1 Design and develp wireframe
+ - [x] 16.5.2 Select and finalize wireframe
+ - [x] 16.5.3 Design data instantiation engine
+ - [x] 16.5.4 Develop and test data instantiaion engine
+ - [x] 16.5.5 Design GUI instantiation engine
+ - [x] 16.5.6 Test GUI instantiation engine
  - [ ] 16.5.1 Setup Github Isues/Feature tracking to record all feedback and features changes from the end users
 </details>
 
 <details>
     <summary>16.6 Design and develop a waveform data annotation project to be hosted in CADA</summary>
 
- - [ ] 16.6.1 Develop parsing script to process various waveform formats to uniform binary format
+ - [x] 16.6.1 Develop parsing script to process various waveform formats to uniform binary format
 </details>
 
 <details>
     <summary>16.7 Design and develop a cohort adjudication project to be hosted in CADA</summary>
 
- - [ ] 16.7.1 CADA contrainer is able to load and host the selected project file
+ - [x] 16.7.1 CADA contrainer is able to load and host the selected project file
 </details>
 
 <details>
     <summary>16.8 Deploy CADA and the two annotation projects to CHoRUS data platform</summary>
 
- - [ ] 16.8.1 CADA is successfully hosed on CHoRUS data platorm
+ - [ ] 16.8.1 CADA is successfully hosted on CHoRUS data platorm
 </details>
 
  <details>
     <summary>16.9 Train and co-develop a second waveform data annotation project to be hosted in CADA with a CHoRUS site</summary>
 
- - [ ] 16.9.1 Select a second data annotation project
- - [ ] 16.9.2 Develop the project file for the selected annotiation project
- - [ ] 16.9.3 Host the project file on CADA instance on the CHoRUS data platform
+ - [x] 16.9.1 Select a second data annotation project
+ - [x] 16.9.2 Develop the project file for the selected annotiation project
+ - [x] 16.9.3 Host the project file on CADA instance on the CHoRUS data platform
 </details>
 
  <details>
     <summary>16.10 Train and co-develop a second cohort adjudication project to be hosted  </summary>
     
- - [ ] 16.10.1 Select a second cohort adjudication project
- - [ ] 16.10.2 Develop the project file for the selected adjudication project
- - [ ] 16.10.2 Host the project file on CADA instance on the CHoRUS data platform
+ - [x] 16.10.1 Select a second cohort adjudication project
+ - [x] 16.10.2 Develop the project file for the selected adjudication project
+ - [x] 16.10.2 Host the project file on CADA instance on the CHoRUS data platform
 </details>
 
 ## Contributing
