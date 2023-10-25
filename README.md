@@ -233,12 +233,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Acknowledgements
 
-- [Library](https://link-to-library)
-- [Tutorial](https://link-to-tutorial)
-- [Stack Overflow](https://stackoverflow.com/) for answering my questions
 
 ## Contact
 
-- Email: dboldl@emory.edu
+- Email: dbold@emory.edu
 - Website: https://nursingdatascience.emory.edu
 
