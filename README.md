@@ -2,6 +2,14 @@
 # CADA 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+> [!IMPORTANT]
+> **Development is currently happening in the internal monorepo**, on the **`develop`** branch:
+>
+> 👉 **https://github.com/chorus-ai/chorus-apps-internal/tree/develop**
+>
+> CADA is built there as one app within the CHoRUS apps suite (under `client/src/apps/cada/`).
+> Once a containerized release is ready, we will update this repository with the published packages.
+
 Cohort Adjudication Data Annotation (CADA) is a web application to be hosted in CHoRUS cloud to enable the community to work together to distill knowledge at scale from the CHoRUS dataset. Its patient cohort adjudication feature supports identifying patients based on computable inclusion/exclusion criteria and its data annotation feature supports reviewing and annotating data level patterns as defined by users. CADA is designed to support a plug&play capacity for hosting adjudication and annotation projects so that minimal amount of new coding is needed for new projects. 
 
 
